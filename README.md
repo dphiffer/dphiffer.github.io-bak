@@ -1,4 +1,4 @@
 dphiffer.github.io
 ==================
 
-My github.io web page
+This is my mobile-friendly portfolio site.
